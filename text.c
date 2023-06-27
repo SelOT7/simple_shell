@@ -2,6 +2,7 @@
 #include "commands.h"
 #include "general.h"
 #include "memory.h"
+#include <signal.h>
 
 /**
  * prompt - Print the prompt
